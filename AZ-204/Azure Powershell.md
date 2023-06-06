@@ -1,4 +1,5 @@
 ### For installation in Linux
+
 ``` sh
 # Update the list of packages
 sudo apt-get update
@@ -18,12 +19,20 @@ sudo apt-get install -y powershell
 pwsh
 ```
 
+### download from snap store
+
+```
+sudo snap install powershell 
+```
+
 ### To start powershell
+
 ```
 pwsh
 ```
 
 ### To connect powershell to azure ( need to do every time we start powershell)
+
 ```
 Connect-AzAccount
 ```
