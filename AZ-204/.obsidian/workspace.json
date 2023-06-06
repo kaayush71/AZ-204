@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "6d70897ff0b843b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1a0dbbbf39bcf24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ae82f125df39ba7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure Powershell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "852120d37646548a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a545576e8272df29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9b2f96d089c9510",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "defae796e4f55ec9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "99e233cfda0bb381",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "40b9baad09b7da46",
+    "type": "split",
+    "children": [
+      {
+        "id": "79860258c6c8dd52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9406270c9c2148e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Azure Powershell.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6201754177a039fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Azure Powershell.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dec8f5160ff6036f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e7946a4b2942424e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Azure Powershell.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6ae82f125df39ba7",
+  "lastOpenFiles": [
+    "Azure Managed Disks.md",
+    "Azure Compute.md",
+    "Azure Powershell.md",
+    "images/AzureComputeSizes.png",
+    "images/Azure Disk Roles.png",
+    "images"
+  ]
+}
