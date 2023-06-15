@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ae82f125df39ba7",
+            "id": "0c1f202a12732ee9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure Compute.md",
+                "file": "Azure App Service.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "26baf56d7609e117",
+            "id": "59fc93172924283f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,14 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26baf56d7609e117",
+  "active": "59fc93172924283f",
   "lastOpenFiles": [
     "Azure VM's.md",
-    "Azure Powershell.md",
-    "Microsoft Docs for AZ-204.md",
     "Azure Compute.md",
-    "README.md",
+    "Azure Powershell.md",
     "Azure Managed Disks.md",
+    "Azure Functions.md",
+    "Azure App Service.md",
+    "Microsoft Docs for AZ-204.md",
+    "Untitled",
+    "README.md",
     "images/AzureComputeSizes.png",
     "images/Azure Disk Roles.png",
     "images"
