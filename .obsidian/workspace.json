@@ -1,52 +1,39 @@
 {
   "main": {
-    "id": "6d70897ff0b843b3",
+    "id": "b114b7cd9467e7d7",
     "type": "split",
     "children": [
       {
-        "id": "c1a0dbbbf39bcf24",
+        "id": "1b9bbe4e3858ffa2",
         "type": "tabs",
         "children": [
           {
-            "id": "0c1f202a12732ee9",
+            "id": "c3360cfe3c7438ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure App Service.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59fc93172924283f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Microsoft Docs for AZ-204.md",
+                "file": "Azure Storage.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "852120d37646548a",
+    "id": "82d6c423dd2d1795",
     "type": "split",
     "children": [
       {
-        "id": "a545576e8272df29",
+        "id": "b713fa25cdc3835e",
         "type": "tabs",
         "children": [
           {
-            "id": "f9b2f96d089c9510",
+            "id": "d5da84f5f29e05a5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +43,7 @@
             }
           },
           {
-            "id": "defae796e4f55ec9",
+            "id": "d6817b076a0a2084",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +58,7 @@
             }
           },
           {
-            "id": "99e233cfda0bb381",
+            "id": "5042cddf4fd9c030",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "40b9baad09b7da46",
+    "id": "d65516b62eff9e7f",
     "type": "split",
     "children": [
       {
-        "id": "79860258c6c8dd52",
+        "id": "6d905d05107d02ed",
         "type": "tabs",
         "children": [
           {
-            "id": "9406270c9c2148e3",
+            "id": "1c71d034830ce9be",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microsoft Docs for AZ-204.md",
+                "file": "Azure Storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +97,19 @@
             }
           },
           {
-            "id": "6201754177a039fc",
+            "id": "ddae4055d92cca95",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microsoft Docs for AZ-204.md",
+                "file": "Azure Storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "dec8f5160ff6036f",
+            "id": "9b261f9ab72508c4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,12 +120,12 @@
             }
           },
           {
-            "id": "e7946a4b2942424e",
+            "id": "77df64abda12efd0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microsoft Docs for AZ-204.md"
+                "file": "Azure Storage.md"
               }
             }
           }
@@ -159,17 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59fc93172924283f",
+  "active": "c3360cfe3c7438ea",
   "lastOpenFiles": [
+    "README.md",
+    "Microsoft Docs for AZ-204.md",
     "Azure VM's.md",
-    "Azure Compute.md",
+    "Azure Storage.md",
     "Azure Powershell.md",
     "Azure Managed Disks.md",
     "Azure Functions.md",
+    "Azure Compute.md",
     "Azure App Service.md",
-    "Microsoft Docs for AZ-204.md",
-    "Untitled",
-    "README.md",
+    "images/Pasted image 20230616122936.png",
     "images/AzureComputeSizes.png",
     "images/Azure Disk Roles.png",
     "images"
