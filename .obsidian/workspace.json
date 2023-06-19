@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure Storage.md",
+                "file": "Azure Cosmos DB.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure Storage.md",
+                "file": "Azure Cosmos DB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azure Storage.md",
+                "file": "Azure Cosmos DB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azure Storage.md"
+                "file": "Azure Cosmos DB.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "c3360cfe3c7438ea",
   "lastOpenFiles": [
+    "Azure Storage.md",
+    "Azure Cosmos DB.md",
     "README.md",
     "Microsoft Docs for AZ-204.md",
     "Azure VM's.md",
-    "Azure Storage.md",
     "Azure Powershell.md",
     "Azure Managed Disks.md",
     "Azure Functions.md",

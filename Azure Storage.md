@@ -42,3 +42,14 @@ The Azure Storage platform includes the following data services:
 1. AzCopy is a command-line utility that you can use to copy blobs or files to or from a storage account. 
 2. It can be used to copy a file from one container into another.
 3. We can use SAS token or Azure-AD(active directory) to copy file from one container to another.
+
+## Backups
+1. Inside data protection we can have enable operational backup setting .
+   we can create backup vault and also set redundancy like local or geo-redundant.
+2. Also we need to go to backup vault and give access to the storage account.
+3. we can also create backup policy (Retention in days)
+
+### Microsoft keeps 2 copies of file in local redundant and 6 copies of file in geo redundant
+
+## Lifecycle management
+1. We can set rules that will change the tier of file from hot to cool or archival based on last access date.
