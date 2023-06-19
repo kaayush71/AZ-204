@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.0.3.740481083963">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.0.3.740484037543">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.0.3">
@@ -30,11 +30,11 @@
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../resources/css/retype.css?v=3.0.3.740481083963" rel="stylesheet" />
+    <link href="../resources/css/retype.css?v=3.0.3.740484037543" rel="stylesheet" />
 
-    <script type="text/javascript" src="../resources/js/config.js?v=3.0.3.740481083963" data-turbo-eval="false" defer></script>
+    <script type="text/javascript" src="../resources/js/config.js?v=3.0.3.740484037543" data-turbo-eval="false" defer></script>
     <script type="text/javascript" src="../resources/js/retype.js?v=3.0.3" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" type="text/javascript" src="../resources/js/lunr.js?v=3.0.3.740481083963" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" type="text/javascript" src="../resources/js/lunr.js?v=3.0.3.740484037543" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -254,6 +254,33 @@
 <li>AzCopy is a command-line utility that you can use to copy blobs or files to or from a storage account.</li>
 <li>It can be used to copy a file from one container into another.</li>
 <li>We can use SAS token or Azure-AD(active directory) to copy file from one container to another.</li>
+</ol>
+<doc-anchor-target id="backups">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#backups">#</doc-anchor-trigger>
+        <span>Backups</span>
+    </h2>
+</doc-anchor-target>
+<ol>
+<li>Inside data protection we can have enable operational backup setting .
+we can create backup vault and also set redundancy like local or geo-redundant.</li>
+<li>Also we need to go to backup vault and give access to the storage account.</li>
+<li>we can also create backup policy (Retention in days)</li>
+</ol>
+<doc-anchor-target id="microsoft-keeps-2-copies-of-file-in-local-redundant-and-6-copies-of-file-in-geo-redundant">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#microsoft-keeps-2-copies-of-file-in-local-redundant-and-6-copies-of-file-in-geo-redundant">#</doc-anchor-trigger>
+        <span>Microsoft keeps 2 copies of file in local redundant and 6 copies of file in geo redundant</span>
+    </h3>
+</doc-anchor-target>
+<doc-anchor-target id="lifecycle-management">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#lifecycle-management">#</doc-anchor-trigger>
+        <span>Lifecycle management</span>
+    </h2>
+</doc-anchor-target>
+<ol>
+<li>We can set rules that will change the tier of file from hot to cool or archival based on last access date.</li>
 </ol>
 
                                 
